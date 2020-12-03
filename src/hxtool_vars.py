@@ -3,11 +3,11 @@
 
 # Global variables
 
-default_encoding = 'utf-8'
+default_encoding = "utf-8"
 HXTOOL_API_VERSION = 1
 __version__ = "4.7-pre"
 hxtool_schema_version = 40
-data_path = "data"
-log_path = "log"
+data_path = "../data"
+log_path = "../log"
 
 global app_instance_path
